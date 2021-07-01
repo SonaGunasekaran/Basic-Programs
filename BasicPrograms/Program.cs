@@ -6,9 +6,10 @@ namespace BasicPrograms
     {
         static void Main(string[] args)
         {
-            VowelOrConsonant.CheckVowelOrConsonant();
+            LargestOfThree.ReadInput();
             Console.ReadLine();
         }
+
 
     }
 
