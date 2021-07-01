@@ -6,8 +6,10 @@ namespace BasicPrograms
     {
         static void Main(string[] args)
         {
-            PrimeFactor.ReadInput();
+            VowelOrConsonant.CheckVowelOrConsonant();
             Console.ReadLine();
         }
+
     }
+
 }
