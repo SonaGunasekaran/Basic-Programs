@@ -6,7 +6,8 @@ namespace BasicPrograms
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to Basic Programs!");
+            LeapYear.ReadInput();
+            Console.ReadLine();
         }
     }
 }
