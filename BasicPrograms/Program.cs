@@ -6,7 +6,7 @@ namespace BasicPrograms
     {
         static void Main(string[] args)
         {
-            LeapYear.ReadInput();
+            PrimeFactor.ReadInput();
             Console.ReadLine();
         }
     }
