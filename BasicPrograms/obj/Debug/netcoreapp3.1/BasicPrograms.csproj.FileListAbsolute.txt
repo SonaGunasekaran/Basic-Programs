@@ -1,0 +1,13 @@
+C:\Users\Sona G\source\repos\BasicPrograms\BasicPrograms\bin\Debug\netcoreapp3.1\BasicPrograms.exe
+C:\Users\Sona G\source\repos\BasicPrograms\BasicPrograms\bin\Debug\netcoreapp3.1\BasicPrograms.deps.json
+C:\Users\Sona G\source\repos\BasicPrograms\BasicPrograms\bin\Debug\netcoreapp3.1\BasicPrograms.runtimeconfig.json
+C:\Users\Sona G\source\repos\BasicPrograms\BasicPrograms\bin\Debug\netcoreapp3.1\BasicPrograms.runtimeconfig.dev.json
+C:\Users\Sona G\source\repos\BasicPrograms\BasicPrograms\bin\Debug\netcoreapp3.1\BasicPrograms.dll
+C:\Users\Sona G\source\repos\BasicPrograms\BasicPrograms\bin\Debug\netcoreapp3.1\BasicPrograms.pdb
+C:\Users\Sona G\source\repos\BasicPrograms\BasicPrograms\obj\Debug\netcoreapp3.1\BasicPrograms.csproj.AssemblyReference.cache
+C:\Users\Sona G\source\repos\BasicPrograms\BasicPrograms\obj\Debug\netcoreapp3.1\BasicPrograms.AssemblyInfoInputs.cache
+C:\Users\Sona G\source\repos\BasicPrograms\BasicPrograms\obj\Debug\netcoreapp3.1\BasicPrograms.AssemblyInfo.cs
+C:\Users\Sona G\source\repos\BasicPrograms\BasicPrograms\obj\Debug\netcoreapp3.1\BasicPrograms.csproj.CoreCompileInputs.cache
+C:\Users\Sona G\source\repos\BasicPrograms\BasicPrograms\obj\Debug\netcoreapp3.1\BasicPrograms.dll
+C:\Users\Sona G\source\repos\BasicPrograms\BasicPrograms\obj\Debug\netcoreapp3.1\BasicPrograms.pdb
+C:\Users\Sona G\source\repos\BasicPrograms\BasicPrograms\obj\Debug\netcoreapp3.1\BasicPrograms.genruntimeconfig.cache
